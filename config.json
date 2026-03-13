@@ -1,7 +1,7 @@
 {
-  "primary": "http://cf.xstore.vip",
+  "primary": "http://xstore.vip",
   "fallback": [
-    "http://xstore.vip",
+    "http://cf.xstore.vip",
     "http://xstore.live",
     "http://cdn.xstore.live",
     "http://tv.xstore.live"
