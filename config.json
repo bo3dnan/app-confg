@@ -1,1 +1,9 @@
-CkRHFFQbQTwVHRsBRxstDh0PC0A=
+{
+  "primary": "http://xstore.vip",
+  "fallback": [
+    "http://cf.xstore.vip",
+    "http://xstore.live",
+    "http://cdn.xstore.live",
+    "http://tv.xstore.live"
+  ]
+}
