@@ -1,9 +1,9 @@
 {
-  "primary": "http://xstore.vip",
+  "primary": "http://xstore10.site",
   "fallback": [
-    "http://cf.xstore.vip",
-    "http://xstore.live",
-    "http://cdn.xstore.live",
-    "http://tv.xstore.live"
+    "http://xstoreajman.site",
+    "http://xstore.vip",
+    "http://xstore.fit",
+    "http://xstore.live"
   ]
 }
